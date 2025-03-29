@@ -41,12 +41,12 @@ This is a full-stack blog web application built using the MERN (MongoDB, Express
 * **Frontend:**
     * [React](https://react.dev/) - JavaScript library for building user interfaces.
     * [React Router](https://reactrouter.com/) - For handling client-side routing.
-    * [Redux](https://redux.js.org/) or [Context API](https://react.dev/learn/passing-data-deeply-with-context) - For state management.
-    * [Axios](https://axios-http.com/docs/intro) or [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - For making HTTP requests to the backend.
+    * [Redux](https://redux.js.org/) - For state management.
+    * [Axios](https://axios-http.com/docs/intro) or [Redux Toolkit](https://redux-toolkit.js.org/tutorials/rtk-query) - For making HTTP requests to the backend.
     * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - For structuring the web pages.
     * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling the application.
     * [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The primary programming language for the frontend.
-    * Potentially UI libraries like [Material UI](https://mui.com/), [Chakra UI](https://chakra-ui.com/), [Tailwind CSS](https://tailwindcss.com/).
+    * Potentially UI libraries like [Material UI](https://mui.com/), [Tailwind CSS](https://tailwindcss.com/).
 * **Backend:**
     * [Node.js](https://nodejs.org/en/) - JavaScript runtime environment.
     * [Express.js](https://expressjs.com/) - Minimalist and flexible Node.js web application framework.
